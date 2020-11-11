@@ -20,8 +20,6 @@ public class ArrAprt  {
     prefRwyWst = rwyW;
     propDep = prop;
     jetDep = jet;
-    
-    System.out.println(jetDep);
   }
   
   /**
