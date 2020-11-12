@@ -3,12 +3,12 @@ import java.util.*;
 
 public class ArrAprt  {
   //properties
-  public String prefRwyNrth;
-  public String prefRwySth;
-  public String prefRwyEst;
-  public String prefRwyWst;
-  public String propDep;
-  public String jetDep;
+  private String prefRwyNrth;
+  private String prefRwySth;
+  private String prefRwyEst;
+  private String prefRwyWst;
+  private String propDep;
+  private String jetDep;
   
   /**
    * Constructor.
